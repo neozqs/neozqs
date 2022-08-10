@@ -1,4 +1,4 @@
 ### Hi there 👋
-Hey, I am Mateja 👋
+Hey, I am Neo 👋
 
-    🌱 Learning Lua, JS, HTML
+    🌱 Lua, JS, HTML, React, Typescript
